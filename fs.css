@@ -1,0 +1,54 @@
+body{
+    color : orange;
+    background-color: black;
+}
+/* p{
+    font-size: xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+} */
+img{
+    height:300px;
+    width:300px;
+    border-radius:50px;
+
+}
+video{
+    height:300px;
+
+}
+ol{
+    list-style-type: upper-alpha;
+}
+ul{
+    list-style-type:square;
+}
+button{
+    background-color: thistle;
+    padding:20px;
+    margin:40px;
+}
+button:hover{
+    background-color: brown;
+}
+h1{
+    padding:40px;
+    border:3p solid red;
+    margin:30px;
+}
+nav{
+    gap:20px;
+}
+#p1{
+    font-style: italic;
+}
+#p2{
+    font-style: normal;
+}
+.group{
+    font-size: xx-large;
+}
+.grid{
+    diplay:grid;
+    grid-template-columns:33% 33% 33%;
+}
